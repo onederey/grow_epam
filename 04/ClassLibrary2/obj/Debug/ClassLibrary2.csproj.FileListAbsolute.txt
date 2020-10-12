@@ -1,0 +1,6 @@
+E:\РАБОЧИЙ СТОЛ\ПИ\курс епам\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\РАБОЧИЙ СТОЛ\ПИ\курс епам\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\РАБОЧИЙ СТОЛ\ПИ\курс епам\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+E:\РАБОЧИЙ СТОЛ\ПИ\курс епам\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\РАБОЧИЙ СТОЛ\ПИ\курс епам\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\РАБОЧИЙ СТОЛ\ПИ\курс епам\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
